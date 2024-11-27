@@ -1,0 +1,14 @@
+.app-container {
+  display: flex; /* Enable flexbox */
+  flex-direction: column; /* Stack children vertically */
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  margin: 0; /* Remove default margins */
+  padding-bottom: 50vh; /* Remove default padding */
+  background-color: lightblue; /* Light background for aesthetics */
+  font-family: sans-serif;
+  font-size: larger; /* Optional: Customize font */
+  transform: scale(1.5);
+}
