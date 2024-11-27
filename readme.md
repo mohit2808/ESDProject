@@ -1,4 +1,4 @@
-                                                                    Faculty Display Timetable 
+Faculty Display Timetable 
 Project Overview
 This project is designed to help faculty members view and manage their timetables for the courses they teach. Faculty members can log in to view their timetable, including details such as course specialization and room number. Additionally, faculty can select a particular course to view a list of students enrolled in that course.
 
